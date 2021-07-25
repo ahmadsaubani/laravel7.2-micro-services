@@ -1,0 +1,49 @@
+
+body{
+    background: #046b53 url(https://www.ethis.co.id/wp-content/uploads/2018/05/pattern_ethis_2.png?id=7321) !important;
+    background-position: 0 0 !important;
+    background-repeat: repeat !important;
+}
+
+/* setup */
+.p-null{
+  padding-left:0px;
+  padding-right:0px;
+}
+
+/* end setup */
+
+.kyc{
+  margin-top:80px;
+}
+
+.desc-kyc{
+  background: #0CA174;
+  display: flex;
+  min-height: 80vh;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 7px 0 0 7px;
+  padding-left: 4vh;
+  padding-right: 4vh;
+  padding-top: 2vh; 
+  padding-bottom: 2vh;  
+}
+
+.desc-kyc .kyc-content{
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-self: center; */
+}
+
+.form-kyc{
+  background: white;
+  min-height: 80vh;
+  border-radius: 0 7px 7px 0;
+  padding-left: 4vh;  
+  padding-top: 2vh;  
+  padding-bottom: 2vh;  
+}
+
+/* Penyesuaian */

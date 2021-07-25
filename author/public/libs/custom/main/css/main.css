@@ -1,0 +1,115 @@
+@font-face {
+  font-family: montserrat;
+  src: url("/fonts/montserrat/montserrat.otf");
+}
+
+*{
+  font-family: montserrat;
+}
+
+.f-11{
+  font-size: 11px;
+}
+
+.full-w{
+  width: 100%;
+}
+
+body { padding-top: 90px; }
+.navbar-brand{
+  padding-top: 0.8125rem;
+}
+
+.btn-menu:hover{
+  background-color: #12C7A4;
+}
+
+.btn-menu{
+  border: 1px solid #12C7A4;
+  color: #12C7A4;
+}
+
+.btn.btn-success{
+  border: 1px solid #12C7A4;
+  background-color: #12C7A4;
+  color: white;
+}
+
+.btn.btn.btn-success:hover{
+  background-color: white;
+  color: #12C7A4;
+}
+
+.carousel-item {
+  height: 80vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.ext-button{
+  float: left;
+  width: 15px;
+}
+
+
+/* .dropdown:hover>.dropdown-menu {
+  display: block;
+} */
+
+.login-top{
+  color:#12C7A4;
+}
+.top10{
+  margin-top:10px;
+}
+
+a{
+  font-weight: bold;
+  color:#12C7A4;
+}
+a:hover{
+  color: #12C7A4;
+}
+
+.login-form{
+  margin-top:20px;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.login-form_reg{
+  margin-top:20px;
+  padding:20px;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+  border-color:#12C7A4;
+    background-color:#12C7A4;
+}
+
+
+
+
+
+#nomor_code{
+  flex: 1 1 25%;
+}
+
+#nomor_telp{
+  flex: 1 1 75%;
+}
+
+/* Sidebar */
+
+#sidebar{
+  background: #E0F5F1;
+}
+
+

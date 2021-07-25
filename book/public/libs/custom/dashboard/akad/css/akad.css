@@ -1,0 +1,63 @@
+/* .header{
+  margin: 0 auto;
+} */
+
+.t-center{
+  text-align: center;
+}
+
+.b-right{
+  border-right: solod 1px black;
+}
+
+.m-115{
+  margin-bottom: 1.15rem;
+}
+
+.p-15{
+  padding-left: 15px;
+}
+
+.m-0-auto{
+  margin: 0 auto;
+}
+
+.format-eng{
+  color: rgba(243, 156, 18,1);
+  font-style: italic;
+}
+
+.head-title{
+  border-bottom: double 4px black;
+}
+
+.akad-content h4{
+  padding-bottom: 5px;
+}
+
+.order-content{
+  
+}
+
+ol{
+  padding-inline-start: 15px;
+}
+
+.en{
+  color: #948A54;
+  font-style: italic;
+}
+
+
+ol li{
+  margin-bottom: 1.15rem;
+  text-align: justify;
+}
+
+ol li.eng{
+  font-style: italic;
+}
+
+ol.eng{
+  font-style: italic;
+}
